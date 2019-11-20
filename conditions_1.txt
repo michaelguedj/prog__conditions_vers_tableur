@@ -1,0 +1,10 @@
+
+note = "" : Absence.
+ET(0 <= note ; note < 6): Résultats très faibles.
+ET(6 <= note ; note < 8) : Très insuffisant.
+ET(8 <= note ; note < 10) : Insuffisant.
+ET(10 <= note ; note < 12) : Passable.
+ET(12 <= note ; note < 14) : Convenable.
+ET(14 <= note ; note < 16) : Bien.
+ET(16 <= note ; note < 18) : Très bien.
+ET(18 <= note ; note <= 20) : Excellent travail.
